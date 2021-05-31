@@ -1,0 +1,5 @@
+# Ignore the vs_code directory
+.vscode/
+
+# Ignore the __pycache__ directory
+./LinkedList/__pycache__/
